@@ -1,0 +1,75 @@
+.page-not-found {
+    position: absolute;
+    top: 472px;
+    left: 156px;
+    text-align: left;
+}
+.the-page-you {
+    margin: 0;
+}
+.the-page-you-container {
+    position: absolute;
+    top: 540px;
+    left: 0px;
+    font-size: 24px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #fbc707, rgba(251, 199, 7, 0));
+    width: 300px;
+    height: 52px;
+}
+.go-to-homepage {
+    position: absolute;
+    top: 9px;
+    left: 42px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 647px;
+    left: 173px;
+    box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.12);
+    width: 300px;
+    height: 52px;
+    font-size: 28px;
+    color: #1d4e9e;
+    font-family: Amaranth;
+}
+.animation-1731648049580-1 {
+    position: absolute;
+    top: 76px;
+    left: 414px;
+    width: 150px;
+    height: 93px;
+    object-fit: cover;
+}
+.httpslottiefilescomanimat-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 634px;
+    height: 443px;
+    object-fit: cover;
+}
+.page-not-found-parent {
+    position: absolute;
+    top: 164px;
+    left: 644px;
+    width: 634px;
+    height: 699px;
+}
+.slide-169-13 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1080px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 32px;
+    color: #000;
+    font-family: Inter;
+}
+
